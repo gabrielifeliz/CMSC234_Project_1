@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" >Rectangle Calculator</string>
+    <string name="rect_width_prompt">Width</string>
+    <string name="rect_height_prompt">Height</string>
+    <string name="rect_area_label">Area</string>
+    <string name="rect_perimeter_label">Perimeter</string>
+    <string name="number_hint">10.01</string>
+    <string name="button_label">CALCULATE</string>
+    <string name="developer_signature">Created by Gabriel Isaac Feliz</string>
+</resources>
