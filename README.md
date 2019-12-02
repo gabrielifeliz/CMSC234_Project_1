@@ -7,5 +7,6 @@ Topics:
 - Handling Exceptions (```try```- ```catch```)
 - Objects
 - Inheritance
+- Event Handling
 
 Date of Completion: 09/29/2019
