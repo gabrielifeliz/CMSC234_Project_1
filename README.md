@@ -8,5 +8,6 @@ Topics:
 - Objects
 - Inheritance
 - Event Handling
+- Activities
 
 Date of Completion: 09/29/2019
